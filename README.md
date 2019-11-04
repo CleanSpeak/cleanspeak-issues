@@ -1,4 +1,4 @@
-# FusionAuth Issues
+# CleanSpeak Issues
 We hope you love using CleanSpeak, but in case you encounter a bug or an issue with the software please do let us know.
 
 Click on the **Issues** tab or click right [here](https://github.com/CleanSpeak/cleanspeak-issues/issues/new/choose) to open an issue.
